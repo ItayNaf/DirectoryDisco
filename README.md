@@ -1,5 +1,5 @@
-# DirectoryDIsco
-DirectroyDisco(very) is a python program for discovering hidden directories and soon subdomains. The program is ran your Linux terminal. This program is for learning purpose only and is used for CTFs or stuff.
+# DirectoryDisco
+DirectroyDisco(very) is a python program for discovering hidden directories and soon subdomains. The program is ran on your Linux terminal and can be download as easy as just copying the mainDisco.py file or downloading it. This program is for learning purpose only and is used for CTFs.
 
 
 ## Usage
