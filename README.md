@@ -11,3 +11,5 @@ advanced:
 
 ## Note:
 mainDisco.py for now directory busting only haven't had a chance to add subdomains to hunt but gonna add them soon. For now everything everything looks good with the threading and the recursion, thinking of adding more arguments/flags soon.  
+#### NoteToSelf 
+Check the output file and see if everything works there as it should + check the no extention command too.
