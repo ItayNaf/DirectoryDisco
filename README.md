@@ -4,10 +4,10 @@ DirectroyDisco(very) is a python program for discovering hidden directories and 
 
 ## Usage
 basic:
-`$ python3 mainDisco -u http://1.1.1.1 -w wordlist.txt -x php,txt`
+`$ python3 mainDisco.py -u http://1.1.1.1 -w wordlist.txt -x php,txt`
 
 advanced:
-`$ python3 mainDisco -u http://1.1.1.1 -w wordlist.txt -x php,txt -t 100` 
+`$ python3 mainDisco.py -u http://1.1.1.1 -w wordlist.txt -x php,txt -t 100` 
 
 ## Note:
 mainDisco.py for now only is for directories and I'll add subdomains to hunt! for now check that everything is working as it should and maybe add more options/flags/arguments for example http headers or cookies. 
